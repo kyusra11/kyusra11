@@ -1,8 +1,7 @@
 - 👋 Hi, I’m k.yusra
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://twitter.com/_ysk11
 
 <!---
 kyusra11/kyusra11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
